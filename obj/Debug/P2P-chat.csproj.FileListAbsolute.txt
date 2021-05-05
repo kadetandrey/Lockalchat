@@ -1,0 +1,22 @@
+C:\Users\HP\Downloads\Telegram Desktop\P2P-chat\bin\Debug\P2P-chat.exe.config
+C:\Users\HP\Downloads\Telegram Desktop\P2P-chat\bin\Debug\P2P-chat.exe
+C:\Users\HP\Downloads\Telegram Desktop\P2P-chat\bin\Debug\P2P-chat.pdb
+C:\Users\HP\Downloads\Telegram Desktop\P2P-chat\obj\Debug\P2P-chat.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\Telegram Desktop\P2P-chat\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Downloads\Telegram Desktop\P2P-chat\obj\Debug\App.g.cs
+C:\Users\HP\Downloads\Telegram Desktop\P2P-chat\obj\Debug\P2P-chat_MarkupCompile.cache
+C:\Users\HP\Downloads\Telegram Desktop\P2P-chat\obj\Debug\P2P-chat_MarkupCompile.lref
+C:\Users\HP\Downloads\Telegram Desktop\P2P-chat\obj\Debug\MainWindow.baml
+C:\Users\HP\Downloads\Telegram Desktop\P2P-chat\obj\Debug\P2P-chat.g.resources
+C:\Users\HP\Downloads\Telegram Desktop\P2P-chat\obj\Debug\P2P_chat.Properties.Resources.resources
+C:\Users\HP\Downloads\Telegram Desktop\P2P-chat\obj\Debug\P2P-chat.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\Telegram Desktop\P2P-chat\obj\Debug\P2P-chat.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Telegram Desktop\P2P-chat\obj\Debug\P2P-chat.exe
+C:\Users\HP\Downloads\Telegram Desktop\P2P-chat\obj\Debug\P2P-chat.pdb
+C:\Users\kadet\Downloads\CSaN_Lab_4-main\obj\Debug\P2P-chat.csprojAssemblyReference.cache
+C:\Users\kadet\Downloads\CSaN_Lab_4-main\obj\Debug\MainWindow.g.cs
+C:\Users\kadet\Downloads\CSaN_Lab_4-main\obj\Debug\App.g.cs
+C:\Users\kadet\Downloads\CSaN_Lab_4-main\obj\Debug\P2P-chat_MarkupCompile.cache
+C:\Users\kadet\Downloads\CSaN_Lab_4-main\obj\Debug\P2P-chat_MarkupCompile.lref
+C:\Users\kadet\Downloads\CSaN_Lab_4-main\obj\Debug\P2P-chat.exe
+C:\Users\kadet\Downloads\CSaN_Lab_4-main\obj\Debug\P2P-chat.pdb
